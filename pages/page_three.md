@@ -1,5 +1,4 @@
-<html><body>
+<html>
 <h1>Hello</h1>
 <p>Does this work</p>
-
-</body></html>
+</html>
