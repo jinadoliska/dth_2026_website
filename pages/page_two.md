@@ -1,4 +1,4 @@
-# Disadvantages of open-source software
+# Disadvantages of Open-Source Software
 
 ## Open Source Software and Its Shortcomings
 

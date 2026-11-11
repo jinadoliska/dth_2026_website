@@ -1,4 +1,4 @@
-# Orange data mining
+# Orange Data Mining
 
 ## An Open-Source Project for Data Mining
 
