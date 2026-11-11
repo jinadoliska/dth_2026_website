@@ -13,3 +13,4 @@ In the field of social science, it is widely used for qualitative data analysis 
 - Orange Data Mining is funded by project grants from the University of Ljubljana, as well as small contributions from donors.
 ### Verdict; Would I Use It for My Thesis
 Despite its tendency to crash, Orange Data Mining is a program with a lot of value for someone studying European Studies and I am heavily considering using it for my Masters’ thesis to help visualize the political attitudes and climate expressed by politicians and public officials in certain Western Balkans countries. While it is useful, it is not fully necessary and there exists alternative software, so I could leave it again if I had to.
+### [SOURCES](index.html?page=Sources)
