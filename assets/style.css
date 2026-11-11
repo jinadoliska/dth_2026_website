@@ -20,7 +20,7 @@
 
 body {
   font-family: var(--projectFont); color: #000000;
-  -webkit-text-stroke: 2px #ffffff;
+  -webkit-text-stroke: 1px #ffffff;
   padding: 0;
   margin: 0;
   font-weight: 300;
@@ -232,4 +232,6 @@ main img {
   transform: scale(1);
 }
 
-#page_two h2 { color: var(rgba(112, 0, 0, 0.87)); }
+#page_two h2 { color:rgb(rgb(108, 39, 39) ; }
+#page_one h2 { color:rgb(rgb(7, 67, 81) ; }
+#page_three h2 { color:rgb(rgb(31, 75, 7) ; }
