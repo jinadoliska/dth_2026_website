@@ -23,6 +23,7 @@ body {
   padding: 0;
   margin: 0;
   font-weight: 300;
+  background-color: rgba(158, 0, 194, 0.919);
 }
 
 /* some of HTML elements come with element specific style, we want to remove it so we can style them ourselves */
@@ -75,7 +76,7 @@ section {
 }
 
 #bannerShadow {
-  background-color: rgba(160, 213, 240, 0.447);
+  background-color: rgba(234, 248, 255, 0.447);
   height: 100%;
 }
 
