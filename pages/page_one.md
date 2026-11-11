@@ -13,4 +13,4 @@ The most obvious advantage of open-source software is the fact that it is *free 
 ### Fostering of Open-Source Culture
 Open-source software is not merely a pragmatic thing, it is also based on an **idea**, that being one of *freedom and transparency*. Open-source culture builds a community that is prone to collaboration, open exchange and meritocracy. People get to be involved, creative, working together and can make an impact where they see that something could be improved. Instead of simply being economically beneficial like I mentioned in the previous paragraph, it also goes *in opposition to the profit motive* and helps users become a part of something greater than themselves. The community it fosters opposes capture and monetization by big companies, leading to a better internet experience for everyone.
 
-### ![SOURCES](Sources1.md)
+### [SOURCES](index.html?page=Sources)
