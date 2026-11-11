@@ -29,3 +29,5 @@ https://github.com/biolab/orange3 accessed on 11/11 2026
 https://github.com/sponsors/biolab accessed on 11/11 2026
 
 https://cc.au.dk/en/cdmm/tools-and-tutorials/data-analysis/orange-data-mining accessed on 11/11 2026
+
+https://www.gnu.org/licenses/gpl-3.0.en.html accessed on 11/11 2026
