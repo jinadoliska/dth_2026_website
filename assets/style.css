@@ -19,7 +19,7 @@
 /* individual element styles */
 
 body {
-  font-family: var(--projectFont);
+  font-family: var(--projectFont); color: #000000; -webkit-text-stroke: 1px #ffffff;
   padding: 0;
   margin: 0;
   font-weight: 300;
@@ -231,6 +231,6 @@ main img {
   transform: scale(1);
 }
 
-#page_two h2 { color:rgb(rgb(108, 39, 39) ; }
-#page_one h2 { color:rgb(rgb(7, 67, 81) ; }
-#page_three h2 { color:rgb(rgb(31, 75, 7) ; }
+#page_one h2 { color:--var(--green) ; }
+#page_two h2 { color:--var(--red) ; }
+#page_three h2 { color:--var(--blue) ; }
