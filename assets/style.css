@@ -13,7 +13,7 @@
   --purple: #ceaeea;
   --red: #f22c43;
   --yellow: #fddd0d;
-  --projectFont: Lexend, Times New Roman, serif;
+  --projectFont: "Times New Roman", Times, serif;
 }
 
 /* individual element styles */
