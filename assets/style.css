@@ -13,7 +13,7 @@
   --purple: #ceaeea;
   --red: #f22c43;
   --yellow: #fddd0d;
-  --projectFont: Lexend, Arial, sans-serif;
+  --projectFont: Lexend, Times New Roman, serif;
 }
 
 /* individual element styles */
@@ -229,4 +229,4 @@ main img {
   transform: scale(1);
 }
 
-#page_two h2 { color: var(--red); }
+#page_two h2 { color: var(rgba(112, 0, 0, 0.87)); }
