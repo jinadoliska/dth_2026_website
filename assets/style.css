@@ -19,7 +19,7 @@
 /* individual element styles */
 
 body {
-  font-family: var(--projectFont); color: #000000; -webkit-text-stroke: 1px #ffffff;
+  font-family: var(--projectFont); color: #000000; -webkit-text-stroke: 1px #494448;
   padding: 0;
   margin: 0;
   font-weight: 300;
@@ -82,7 +82,7 @@ section {
 
 h1 {
   color: #000000;
-  -webkit-text-stroke: 2px #ffffff;
+  -webkit-text-stroke: 1px #ffffff;
   width: 100%;
   padding: 0;
   align-self: center;
