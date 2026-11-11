@@ -19,8 +19,7 @@
 /* individual element styles */
 
 body {
-  font-family: var(--projectFont); color: #000000;
-  -webkit-text-stroke: 1px #ffffff;
+  font-family: var(--projectFont);
   padding: 0;
   margin: 0;
   font-weight: 300;
