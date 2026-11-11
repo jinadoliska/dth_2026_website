@@ -2,11 +2,11 @@
 
 ## An Open-Source Project for Data Mining
 
-[Orange Data Mining] (https://orangedatamining.com/) is an open-source program used for data operations, data processing and data visualization. It was made by a team of researchers at the Bioinformatics Laboratory at the Faculty of Computer and Information Science based at the University of Ljubljana in Slovenia.
+[Orange Data Mining](https://orangedatamining.com/) is an open-source program used for data operations, data processing and data visualization. It was made by a team of researchers at the Bioinformatics Laboratory at the Faculty of Computer and Information Science based at the University of Ljubljana in Slovenia.
 ### Use for social sciences
 In the field of social science, it is widely used for qualitative data analysis and data visualization (e.g. frequency of certain phrases or themes in a political speech or article). I have used it myself for some of my papers, such as frequency of certain political themes in certain politicians’ speeches
 ### License, Maintenance and Funding
-- Orange uses the GNU [GPL-3.0] license, which permits you to freely run, study, modify and distribute software (even for commercial purposes) if you pass those same rights and the source code to anyone you share it with.
+- Orange uses the [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html) GPL-3.0 license, which permits you to freely run, study, modify and distribute software (even for commercial purposes) if you pass those same rights and the source code to anyone you share it with.
 - The last commit was made 3 days ago (November 9th 2026) as of me writing this.
 - There have been 109 contributors to the project.
 - Questions in the issues section on GitHub are often answered (the most recent answer to a bug report was three hours ago as of writing this text)
