@@ -1,4 +1,4 @@
-# Sources
+# References
 
 ## Sources for Page 1 (Advantages)
 https://opensource.org/blog/open-source-software-public-policy-and-the-stakes-of-getting-it-right https://www.turing.ac.uk/blog/open-source-software-why-it-matters-and-how-get-involved accessed on 11/11 2026
