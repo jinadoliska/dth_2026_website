@@ -230,3 +230,8 @@ main img {
   cursor: auto;
   transform: scale(1);
 }
+
+#totalCount {
+  align-self: center;
+  margin: 0;
+}
